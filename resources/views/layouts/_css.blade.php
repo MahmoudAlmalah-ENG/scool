@@ -9,12 +9,6 @@
       href="{{ asset('assets/vendor/fonts/fontawesome8a69.css?id=a2997cb6a1c98cc3c85f4c99cdea95b5')}}"/>
 <link rel="stylesheet"
       href="{{ asset('assets/vendor/fonts/flag-icons80a8.css?id=121bcc3078c6c2f608037fb9ca8bce8d')}}"/>
-<link rel="stylesheet"
-      href="{{ asset('assets/vendor/css/rtl/core6cc1.css?id=9dd8321ea008145745a7d78e072a6e36')}}"
-      class="template-customizer-core-css"/>
-<link rel="stylesheet"
-      href="{{ asset('assets/vendor/css/rtl/theme-defaultfc79.css?id=a4539ede8fbe0ee4ea3a81f2c89f07d9')}}"
-      class="template-customizer-theme-css"/>
 <link rel="stylesheet" href="{{ asset('assets/css/demof1ed.css?id=ddd2feb83a604f9e432cdcb29815ed44')}}"/>
 <link rel="stylesheet"
       href="{{ asset('assets/vendor/libs/node-waves/node-wavesd178.css?id=aa72fb97dfa8e932ba88c8a3c04641bc')}}"/>
@@ -31,7 +25,6 @@
       href="{{ asset('assets/vendor/libs/datatables-checkboxes-jquery/datatables.checkboxes.css')}}"/>
 <link rel="stylesheet" href="{{ asset('assets/vendor/css/pages/cards-advance.css')}}">
 <script src="{{ asset('assets/vendor/js/helpers.js')}}"></script>
-<script src="{{ asset('assets/vendor/js/template-customizer.js')}}"></script>
 <script src="{{ asset('assets/js/config.js')}}"></script>
 <link rel="stylesheet"
       href="{{ asset('assets/vendor/libs/datatables-checkboxes-jquery/datatables.checkboxes.css')}}">

@@ -2,10 +2,12 @@
 
 namespace App\Models;
 
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 final class InviteCode extends Model
 {
+    use HasFactory;
     public const TABLE = 'invite_codes';
 
     protected $table = self::TABLE;

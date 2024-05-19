@@ -2,7 +2,7 @@
 
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}"
       class="light-style layout-compact layout-navbar-fixed layout-menu-fixed"
-      dir="ltr" data-theme="theme-default" data-assets-path="{{ asset('assets/admin/') }}/"
+      dir="ltr" data-theme="theme-default" data-assets-path="{{ asset('assets/') }}/"
       data-base-url="{{ url('/') }}" data-framework="laravel"
       data-template="vertical-menu-theme-default-light">
 <head>
